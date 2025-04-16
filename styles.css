@@ -1,0 +1,23 @@
+.container{
+  font-family: Arial;
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px;
+  margin: 20px auto;
+
+}
+
+.qr-image{
+    width: 100%;
+    display: block;
+    border-bottom: 2px solid ;
+    border-radius: 10px;
+}
+
+.content{
+padding: 10px;
+
+}
